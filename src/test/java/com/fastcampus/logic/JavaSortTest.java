@@ -7,7 +7,7 @@ import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class JavaSortTest {
+class JavaSortTest{
     @DisplayName("자바소트 - 리스트를 넣으면 정렬된 결과를 보여준다.")
     @Test
     void given_List_WhenExecuting_ThenReturnSortedList(){
